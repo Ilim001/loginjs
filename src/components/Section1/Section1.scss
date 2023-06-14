@@ -1,0 +1,70 @@
+.section1-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    margin-left: 0px;
+    
+}
+// .section1-nav{
+//     display: flex;
+//     align-items: center;
+//     // justify-content: center;
+//     background: rgba(199, 238, 237, 0.05);
+// /* black / 3 */
+//     border: 1px solid #CACACA;
+//     border-radius: 16px;
+// }
+.section1-text{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    row-gap: 29px;
+}
+
+.section1-title1 span{
+    color: #DB6300;
+
+}
+.section1-title1{
+    font-weight: 700;
+font-size: 50px;
+line-height: 80px;
+/* or 160% */
+/* black / 1 */
+color: #474747;
+}
+.section1-subtitle2{
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 38px;
+/* or 146% */
+/* black / 1 */
+    color: #474747;
+
+}
+.section1-subtitle3{
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+/* black / 2 */
+color: #666666;
+}
+// .section_title4{
+//     font-weight: 700;
+//     font-size: 16px;
+//     line-height: 26px;
+//     /* identical to box height, or 162% */
+
+//     /* black / 2 */
+//     color: #666666;
+//     .text{
+//         background: #FFFFFF;
+//         border-radius: 8px;
+//     }
+// }
+
+
